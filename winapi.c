@@ -20,7 +20,7 @@ A useful set of Windows API functions.
 #ifdef __GNUC__
 #include <winable.h> /* GNU GCC specific */
 #endif
-#include "Winnetwk.h"
+#include "winnetwk.h"
 #include <psapi.h>
 
 
